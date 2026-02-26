@@ -30,4 +30,4 @@ A Java console-based interactive number guessing game where the program generate
 - Interactive console applications
 
   ## Screenshot
-  ![Output](output.png)
+![Output](Screenshots/output.png)
