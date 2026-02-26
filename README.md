@@ -28,3 +28,6 @@ A Java console-based interactive number guessing game where the program generate
 - Logical condition building
 - Control flow handling
 - Interactive console applications
+
+  ## Screenshot
+  ![Output](output.png)
