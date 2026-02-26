@@ -10,7 +10,6 @@ A Java console-based interactive number guessing game where the program generate
 - Random number generation
 - Hint system (Too High / Too Low)
 - Attempt counter
-- Replay option
 - Clean console output
 
 ## Technologies Used
